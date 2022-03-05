@@ -1,0 +1,7 @@
+echo "# -CSGO-Wilks-" >> README.md 
+git init 
+git add README.md 
+git commit -m "первая фиксация" 
+ветвь git -M main 
+git remote add origin https://CSGOWilka/ -CSGO-Wilks-.git
+ git push -u происхождение основной
